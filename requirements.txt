@@ -1,1 +1,2 @@
 spacy==2.0.12
+msgpack-numpy==0.4.3.2
